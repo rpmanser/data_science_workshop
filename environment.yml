@@ -1,0 +1,13 @@
+name: data_science
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+  - xarray
+  - netCDF4
+  - scikit-learn
+  - jupyterlab
